@@ -6,7 +6,7 @@ This application was developed as a **final thesis project** by *Fattah Chaerul 
 
 ---
 
-## 🧱 System Overview
+##  System Overview
 
 The **Auto Engine Simulation** app visualizes the engine cycle and its mechanical processes using **Augmented Reality (AR)**.  
 It integrates **3D animation**, **audio narration**, and **textual information** into a real-world environment, helping students understand the theoretical concepts of petrol and diesel engines more effectively.
@@ -16,29 +16,29 @@ The development followed the **Multimedia Development Life Cycle (MDLC)** method
 
 ---
 
-## ⚙️ Core Features
+##  Core Features
 
-- 🔧 **3D Augmented Reality Simulation**  
+-  **3D Augmented Reality Simulation**  
   Displays detailed 3D engine components and their motion in AR using Vuforia SDK.
 
-- 🧠 **Theoretical Module**  
+-  **Theoretical Module**  
   Contains 18 pages of theoretical material explaining combustion systems, lubrication, cooling, and fuel mechanisms for both petrol and diesel engines.
 
-- 🎙️ **Audio Narration**  
+-  **Audio Narration**  
   Built-in TTS-based narration and background music to enhance learning immersion.
 
-- 🧩 **Interactive Controls**  
+-  **Interactive Controls**  
   Users can rotate, zoom, and switch between different engine models (gasoline or diesel).
 
-- 📱 **User Interface**  
+-  **User Interface**  
   Designed with clean visual hierarchy and easy navigation (Splash Screen → Main Menu → Information → Theory → AR Simulation).
 
-- 🧪 **Testing and Validation**  
+-  **Testing and Validation**  
   GUI testing and User Acceptance Test (UAT) with 34 students — resulting in **78.9% user satisfaction**, confirming educational effectiveness.
 
 ---
 
-## 🧩 Technology Stack
+##  Technology Stack
 
 | Layer | Technology |
 |-------|-------------|
@@ -52,7 +52,7 @@ The development followed the **Multimedia Development Life Cycle (MDLC)** method
 
 ---
 
-## 📦 System Requirements
+##  System Requirements
 
 | Component | Minimum Specification |
 |------------|------------------------|
@@ -64,7 +64,7 @@ The development followed the **Multimedia Development Life Cycle (MDLC)** method
 
 ---
 
-## 🧠 Application Structure
+##  Application Structure
 
 ```
 📦 Auto Engine Simulation
@@ -85,7 +85,7 @@ The development followed the **Multimedia Development Life Cycle (MDLC)** method
 
 ---
 
-## 🧪 Testing and Evaluation
+##  Testing and Evaluation
 
 - **GUI Test** — Verified interface consistency and button functionality across devices.  
 - **User Acceptance Test (UAT)** — Conducted with 34 respondents (students).  
@@ -94,7 +94,7 @@ The development followed the **Multimedia Development Life Cycle (MDLC)** method
 
 ---
 
-## 🎓 Development Process (MDLC Phases)
+##  Development Process (MDLC Phases)
 
 1. **Concept:** Identify educational needs in the PMKR (engine maintenance) subject.  
 2. **Design:** Create navigation structure, activity diagrams, and GUI mockups in Figma.  
@@ -105,7 +105,7 @@ The development followed the **Multimedia Development Life Cycle (MDLC)** method
 
 ---
 
-## 🚀 Installation & Usage
+##  Installation & Usage
 
 1. Download the `.apk` file from the shared Drive folder.  
 2. Install it on an Android device (allow installation from unknown sources).  
@@ -116,7 +116,7 @@ The development followed the **Multimedia Development Life Cycle (MDLC)** method
 
 ---
 
-## 🧑‍💼 Research Results
+##  Research Results
 
 - **User Comprehension Increase:** 78.9%  
 - **Feedback Summary:**  
@@ -127,7 +127,7 @@ The development followed the **Multimedia Development Life Cycle (MDLC)** method
 
 ---
 
-## 📎 Repository Description
+##  Repository Description
 
 > Android-based Augmented Reality app that simulates 3D working principles of gasoline and diesel engines. Developed using Unity3D, Vuforia, and Blender following the MDLC methodology.
 
